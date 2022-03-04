@@ -1,8 +1,11 @@
 # gaggle
 
 WEEK 5:
+
 Tweaked UI.
+
 Set up back end using firebase authentication and firestore.
+
 Resources used:
 
 Gradient Background:
