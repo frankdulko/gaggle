@@ -1,5 +1,16 @@
 # gaggle
 
+WEEK 6:
+Streamlined UI
+
+Added ability to upload a profile picture.
+
+https://designcode.io/swiftui-advanced-handbook-imagepicker
+
+https://medium.com/@ameenah.burhan/quick-swiftui-loading-an-image-from-firebase-storage-using-sdwebimageui-3ab989b0ead3
+
+https://designcode.io/swiftui-advanced-handbook-firebase-storage
+
 WEEK 5:
 
 Tweaked UI.
